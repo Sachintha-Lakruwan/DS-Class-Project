@@ -12,11 +12,6 @@ We simulated a real-world scenario as data scientists at Wolt, a leading retail 
 - **Hypothesis Testing**: Tested 20 hypotheses on perceived ease of use, usefulness, structural assurance, and social influence.
 - **Rule Mining**: Applied the Apriori algorithm to extract behavioral patterns and decision rules.
 
-## 📁 Deliverables
-- Final report (PDF)
-- Video presentation (2 minutes)
-- Python notebooks and scripts used for analysis
-
 ## 🛠️ Tech Stack
 - Python 3.6
 - Pandas, NumPy, scikit-learn
